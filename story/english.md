@@ -1114,6 +1114,8 @@ The life is mine.
 
 But this journey became more special because AI was part of it.
 
+This story was lived by me, but it became possible because of the people who built these tools.
+
 ---
 
 Thank you.
