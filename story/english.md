@@ -2,6 +2,21 @@
 
 > The story of an ordinary developer from China, ChatGPT, Codex, and the years we spent growing together.
 
+## Table of Contents
+
+- [A Note Before You Read](#a-note-before-you-read)
+- [The Beginning of an Ordinary Developer](#the-beginning-of-an-ordinary-developer)
+- [The First Time I Met ChatGPT](#the-first-time-i-met-chatgpt)
+- [From Frontend to Backend, From Confusion to Technical Lead](#from-frontend-to-backend-from-confusion-to-technical-lead)
+- [After Becoming a Father, ChatGPT Entered My Life](#after-becoming-a-father-chatgpt-entered-my-life)
+  - [Tooth Pain During Pregnancy](#tooth-pain-during-pregnancy)
+- [The Little One and Uncle GPT](#the-little-one-and-uncle-gpt)
+- [From ChatGPT to Codex: When AI Truly Entered the Development Workflow](#from-chatgpt-to-codex-when-ai-truly-entered-the-development-workflow)
+  - [The First Time I Truly Felt the Power of Codex](#the-first-time-i-truly-felt-the-power-of-codex)
+- [The Inventory System: A Project That Finally Started Again](#the-inventory-system-a-project-that-finally-started-again)
+- [No One: An AI Assistant of My Own](#no-one-an-ai-assistant-of-my-own)
+- [To the People Who Created These Tools](#to-the-people-who-created-these-tools)
+
 ---
 
 ## A Note Before You Read

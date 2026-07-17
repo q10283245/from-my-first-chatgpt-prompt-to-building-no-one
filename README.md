@@ -9,6 +9,12 @@ This repository contains the final release version of a personal essay about lea
 - [English version](story/english.md)
 - [中文版本](story/chinese.md)
 
+## Quick Navigation
+
+- [Timeline](timeline/timeline.md)
+- [About No One](no-one/about.md)
+- [Images](images/README.md)
+
 The Chinese version is the original manuscript.
 The English version was polished and translated with the help of ChatGPT while keeping the original story and experiences unchanged.
 

@@ -9,6 +9,12 @@
 - [中文版](story/chinese.md)
 - [English Version](story/english.md)
 
+## 快捷导航
+
+- [时间线](timeline/timeline.md)
+- [关于 No One](no-one/about.md)
+- [图片说明](images/README.md)
+
 中文版是原始稿件，英文版由 ChatGPT 协助润色翻译。
 
 ## 内容
